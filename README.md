@@ -1,4 +1,4 @@
-# su18-202-stellar
+# su18-202-stellar Starbucks APP
 
 
 ###  Starbucks Application built using Java REST APIs.
@@ -7,7 +7,7 @@
         • Managed Order API - Implemented a REST API on top of the Starbucks Library to Manage Orders.
         • Payment API - Implemented a REST API on top of the Starbucks Library to enable Payments.
         • Authentication API - Implemented a REST API on top of the Starbucks Library to manage user authentication.
-        • Deployed the REST APIs to AWS EC2 and enables Auto-scaling and load-balancing. 
+        • Deployed the REST APIs to AWS EC2 and enabled Auto-scaling and load-balancing. 
 
         
 ## Component Diagram
